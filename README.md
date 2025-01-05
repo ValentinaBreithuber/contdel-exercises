@@ -2,11 +2,11 @@
 
 Dieses Repo ist eine Sammlung der 5 Aufgaben aus diesem Semester Continuous Delivery.
 
-- Build Automization
+- Build Automation
 
-- Test Automization
+- Test Automation
 
-- Workflow Automization
+- Workflow Automation
 
 - Containerization
 
