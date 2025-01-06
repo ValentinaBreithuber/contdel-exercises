@@ -1,0 +1,9 @@
+[submodule "build-automation"]
+	path = build-automation
+	url = git@git-iit.fh-joanneum.at:msd-contdel/exercises-ws24/build-automation.git
+[submodule "test-automation"]
+	path = test-automation
+	url = git@git-iit.fh-joanneum.at:msd-contdel/exercises-ws24/test-automation.git
+[submodule "containerization"]
+	path = containerization
+	url = git@git-iit.fh-joanneum.at:msd-contdel/exercises-ws24/containerization.git

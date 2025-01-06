@@ -1,0 +1,5 @@
+setup.py
+contdel_app.egg-info/PKG-INFO
+contdel_app.egg-info/SOURCES.txt
+contdel_app.egg-info/dependency_links.txt
+contdel_app.egg-info/top_level.txt
